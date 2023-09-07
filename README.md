@@ -1,4 +1,5 @@
-# Treue-Technologies
+#Bank Customer Churn Prediction 
+
 DATA SCIENCE TASKS BY TREUE TECHNOLOGIES
 The objective of bank customer churn prediction is to identify and predict which customers are likely to leave or "churn" from a bank's services in the near future. Customer churn refers to the situation where customers stop using a bank's products or services, such as closing their accounts, canceling credit cards, or moving their funds to another financial institution.
 The primary goals of bank customer churn prediction are:
